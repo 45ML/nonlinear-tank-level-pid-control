@@ -104,7 +104,7 @@ The model contains:
 Add a screenshot of the model here:
 
 ```markdown
-![Simulink Model](results/Simulink_Model.png)
+![Simulink Model](results/simulink_model.png)
 ```
 
 ## Actuator Saturation
