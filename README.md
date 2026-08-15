@@ -103,7 +103,7 @@ The model contains:
 
 Add a screenshot of the model here:
 
-```markdown
+markdown
 ![Simulink Model](results/simulink_model.png)
 ```
 
