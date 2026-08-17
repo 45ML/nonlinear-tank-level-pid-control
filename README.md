@@ -101,7 +101,7 @@ The model contains:
 * Feedback loop
 * Scope for response visualization
 
-Add a screenshot of the model here:
+Screenshot of the model here:
 
 markdown
 ![Simulink Model](results/simulink_model.png)
